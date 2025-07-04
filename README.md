@@ -46,5 +46,5 @@ If you would like to get in touch with me please email me at, [getintouch@tylerc
 ## What am I up to lately?
 
 - Just bought a new domain: [Tyguy047.dev](https://tyguy047.dev)!
-- Learning how to make apps with the Flutter framework
-- Recently launched [TyWallet's](https://www.tywallet.xyz) API on Digital Ocean
+- Learning C# with .NET and Maui
+- Recently launched [TyWallet's](https://www.tywallet.xyz) API using a Digital Ocean VPS
